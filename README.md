@@ -1,6 +1,5 @@
-### Hi there 👋, my name is Samiul Hasan
+## Hi there 👋 My name is Samiul Hasan
 #### I am Ethical Hacker and Penetration Tester
-![I am Ethical Hacker and Penetration Tester]
 
 I’m an ethical hacker with expertise in Active Directory Pentesting 🖥️, Web App Security 🌐, Network Security 🔒, SOC Monitoring 🛡️, Phishing Campaigns 📧, and vulnerability assessments. With a passion for identifying and mitigating security risks, I help organizations strengthen their defenses against cyber threats. I stay updated on the latest security trends to provide effective solutions and ensure robust protection for clients across various environments.
 
