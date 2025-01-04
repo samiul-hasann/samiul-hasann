@@ -1,6 +1,5 @@
 <h1 align="center" class="heading-element" dir="auto">Hi 👋, I'm Samiul Hasan</h1>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG5rZnh4OXNkMTl0dDkyMDd2YW1oaDdudHlycG1yaGppM3l0bjV2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif"> Hi there 👋, my name is Samiul Hasan
-I am Ethical Hacker and Penetration Tester
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG5rZnh4OXNkMTl0dDkyMDd2YW1oaDdudHlycG1yaGppM3l0bjV2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif">I am Ethical Hacker and Penetration Tester
 
 I’m an ethical hacker with expertise in Active Directory Pentesting 🖥️, Web App Security 🌐, Network Security 🔒, SOC Monitoring 🛡️, Phishing Campaigns 📧, and vulnerability assessments. With a passion for identifying and mitigating security risks, I help organizations strengthen their defenses against cyber threats. I stay updated on the latest security trends to provide effective solutions and ensure robust protection for clients across various environments.
 
