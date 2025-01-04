@@ -8,7 +8,7 @@ Skills: PYTHON / HTML / CSS / JS
 - 🔭 I’m currently working on Cyber Security. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/wsmadmax)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/samiul-hasan-sh911/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Samiul_Hasan911)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/wsmadmax)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/samiul-hasan-sh911/)  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sakibzisan" height="30" width="40" style="max-width: 100%;">(https://twitter.com/Samiul_Hasan911)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=wsmadmax)](https://github.com/ryo-ma/github-profile-trophy)
 
