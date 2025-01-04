@@ -15,9 +15,9 @@ Skills: PYTHON / HTML / CSS / JS
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=wsmadmax)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=wsmadmax)](https://github.com/wsmadmax)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wsmadmax)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wsmadmax)](https://github.com/wsmadmax)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wsmadmax&show_icons=true)  
 
