@@ -8,5 +8,5 @@ Skills: PYTHON / HTML / CSS / JS
 - 🔭 I’m currently working on Cyber Security. 
 
 
-[<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/samiul-hasan-sh911/)  [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Samiul_Hasan911)  
+[<img align="center" src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg' alt='linkedin' height="30" width="40" style="max-width: 100%;">](https://www.linkedin.com/in/samiul-hasan-sh911/)  [<img align="center" src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg' alt='twitter' height="30" width="40" style="max-width: 100%;">](https://twitter.com/Samiul_Hasan911)  
 
