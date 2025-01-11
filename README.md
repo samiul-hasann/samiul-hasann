@@ -15,11 +15,11 @@ Skills: PYTHON / HTML / CSS / JS
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=wsmadmax)](https://github.com/wsmadmax)
+[![trophy](https://github-profile-trophy.vercel.app/?username=samiul-hasann)](https://github.com/wsmadmax)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wsmadmax)](https://github.com/wsmadmax)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiul-hasann)](https://github.com/wsmadmax)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wsmadmax&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=samiul-hasann&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=wsmadmax)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=samiul-hasann)  
 
